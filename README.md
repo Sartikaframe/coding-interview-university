@@ -8,9 +8,6 @@
 >
 > **Please Note:** You won't need to study as much as I did. I wasted a lot of time on things I didn't need to know. More info about that below. I'll help you get there without wasting your precious time.
 
-> *Best of luck to you!*
-
-<details>
 <summary>Translations:</summary>
 
 - [اردو - Urdu](translations/README-ur.md)
