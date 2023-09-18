@@ -7,7 +7,6 @@
 > I studied about 8-12 hours a day, for several months. This is my story: [Why I studied full-time for 8 months for a Google interview](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
 >
 > **Please Note:** You won't need to study as much as I did. I wasted a lot of time on things I didn't need to know. More info about that below. I'll help you get there without wasting your precious time.
-- [اردو - Urdu](translations/README-ur.md)
 - [中文版本](translations/README-cn.md)
 - [Tiếng Việt - Vietnamese](translations/README-vi.md)
 - [Español](translations/README-es.md)
